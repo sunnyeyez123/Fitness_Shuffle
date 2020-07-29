@@ -23,7 +23,7 @@ I am most proud of getting the basic effect working in only a few hours although
 
 ## What I learned
 
-I learn a lot about where to find affordable icons. I used icons from the [Nouns Project](https://thenounproject.com/guimoide/collection/fitness-exercises-solid/) for this filter.
+I learn a lot about where to find affordable icons. I used icons from the [Noun Project](https://thenounproject.com/guimoide/collection/fitness-exercises-solid/) for this filter.
 
 
 ## What's next for Plants at Home
